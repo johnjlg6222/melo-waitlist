@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "title": "Relate & Grow - Your AI Relationship Coach",
+    "description": "Discover Melo, your caring AI coach helping you build a fulfilling relationship."
+  },
+  "nav": {
+    "features": "Features",
+    "journey": "Journey",
+    "testimonials": "Testimonials",
+    "waitlist": "Join"
+  },
+  "hero": {
+    "badge": "Coming Soon",
+    "title": "Your relationship deserves the best care",
+    "subtitle": "Discover Melo, your caring AI coach helping you build a fulfilling relationship, day after day.",
+    "cta": "Join the waitlist",
+    "ctaSubtext": "Free early access • No credit card required",
+    "emailPlaceholder": "Your email address",
+    "success": "Thank you! You're on the list.",
+    "meloSays": "Hello! I'm Melo, your future relationship wellness companion."
+  },
+  "features": {
+    "title": "Everything you need",
+    "subtitle": "Thoughtfully designed tools to support your relationship journey",
+    "coaching": {
+      "title": "Personalized AI Coaching",
+      "description": "Melo understands your story and guides you with care at every step of your relationship journey."
+    },
+    "journal": {
+      "title": "Guided Relationship Journal",
+      "description": "Express your emotions, track your growth, and discover valuable insights about your relationship."
+    },
+    "exercises": {
+      "title": "Couple Exercises",
+      "description": "Guided breathing, meditations, and exercises designed to strengthen your daily connection."
+    }
+  },
+  "journey": {
+    "title": "Your path to fulfillment",
+    "subtitle": "Four simple steps to transform your relationship",
+    "step": "Step",
+    "step1": {
+      "title": "Download the app",
+      "description": "Available on iOS and Android, start your journey in seconds."
+    },
+    "step2": {
+      "title": "Meet Melo",
+      "description": "Your AI coach learns about you to personalize every piece of advice."
+    },
+    "step3": {
+      "title": "Explore together",
+      "description": "Share exercises, keep your journal, and grow side by side."
+    },
+    "step4": {
+      "title": "Grow in harmony",
+      "description": "Observe your evolution and celebrate every relationship victory."
+    }
+  },
+  "testimonials": {
+    "title": "What they say",
+    "subtitle": "Couples who transformed their relationship",
+    "quote1": {
+      "text": "Melo helped us communicate better. We finally understand each other after 3 years together!",
+      "author": "Marie & Thomas",
+      "role": "Together for 3 years"
+    },
+    "quote2": {
+      "text": "The journal helped me put words to my feelings. A real breakthrough.",
+      "author": "Sophie",
+      "role": "28 years old"
+    },
+    "quote3": {
+      "text": "The breathing exercises have become our evening ritual. We love it!",
+      "author": "Lucas & Emma",
+      "role": "Newlyweds"
+    }
+  },
+  "cta": {
+    "title": "Ready to nurture your relationship?",
+    "subtitle": "Join early users and get priority access.",
+    "button": "Sign up for free",
+    "privacy": "We respect your privacy. No spam, promise."
+  },
+  "footer": {
+    "tagline": "Nurture your relationship, together.",
+    "legal": "Legal Notice",
+    "privacy": "Privacy Policy",
+    "contact": "Contact",
+    "copyright": "© 2024 Relate & Grow. All rights reserved."
+  },
+  "form": {
+    "email": "Email address",
+    "submit": "Join",
+    "submitting": "Signing up...",
+    "success": "Thank you! You're signed up for our waitlist.",
+    "error": "An error occurred. Please try again."
+  }
+}

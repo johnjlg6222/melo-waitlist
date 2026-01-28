@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://relate-and-grow.netlify.app/sitemap.xml

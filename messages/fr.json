@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "title": "Relate & Grow - Votre coach relationnel IA",
+    "description": "Découvrez Melo, votre coach IA bienveillant qui vous aide à construire une relation épanouissante."
+  },
+  "nav": {
+    "features": "Fonctionnalités",
+    "journey": "Parcours",
+    "testimonials": "Témoignages",
+    "waitlist": "Rejoindre"
+  },
+  "hero": {
+    "badge": "Bientôt disponible",
+    "title": "Votre relation mérite le meilleur accompagnement",
+    "subtitle": "Découvrez Melo, votre coach IA bienveillant qui vous aide à construire une relation épanouissante, jour après jour.",
+    "cta": "Rejoignez la liste d'attente",
+    "ctaSubtext": "Accès anticipé gratuit • Aucune carte requise",
+    "emailPlaceholder": "Votre adresse email",
+    "success": "Merci ! Vous êtes sur la liste.",
+    "meloSays": "Bonjour ! Je suis Melo, votre futur compagnon de bien-être relationnel."
+  },
+  "features": {
+    "title": "Tout ce dont vous avez besoin",
+    "subtitle": "Des outils pensés avec soin pour vous accompagner dans votre parcours relationnel",
+    "coaching": {
+      "title": "Coaching IA personnalisé",
+      "description": "Melo comprend votre histoire et vous guide avec bienveillance à chaque étape de votre parcours relationnel."
+    },
+    "journal": {
+      "title": "Journal intime guidé",
+      "description": "Exprimez vos émotions, suivez votre évolution et découvrez des insights précieux sur votre relation."
+    },
+    "exercises": {
+      "title": "Exercices de couple",
+      "description": "Respirations guidées, méditations et exercices conçus pour renforcer votre connexion au quotidien."
+    }
+  },
+  "journey": {
+    "title": "Votre parcours vers l'épanouissement",
+    "subtitle": "Quatre étapes simples pour transformer votre relation",
+    "step": "Étape",
+    "step1": {
+      "title": "Téléchargez l'application",
+      "description": "Disponible sur iOS et Android, commencez votre voyage en quelques secondes."
+    },
+    "step2": {
+      "title": "Faites connaissance avec Melo",
+      "description": "Votre coach IA apprend à vous connaître pour personnaliser chaque conseil."
+    },
+    "step3": {
+      "title": "Explorez ensemble",
+      "description": "Partagez des exercices, tenez votre journal et progressez côte à côte."
+    },
+    "step4": {
+      "title": "Grandissez en harmonie",
+      "description": "Observez votre évolution et célébrez chaque victoire relationnelle."
+    }
+  },
+  "testimonials": {
+    "title": "Ce qu'ils en disent",
+    "subtitle": "Des couples qui ont transformé leur relation",
+    "quote1": {
+      "text": "Melo nous a aidés à mieux communiquer. On se comprend enfin après 3 ans ensemble !",
+      "author": "Marie & Thomas",
+      "role": "En couple depuis 3 ans"
+    },
+    "quote2": {
+      "text": "Le journal m'a permis de mettre des mots sur ce que je ressentais. Un vrai déclic.",
+      "author": "Sophie",
+      "role": "28 ans"
+    },
+    "quote3": {
+      "text": "Les exercices de respiration sont devenus notre rituel du soir. On adore !",
+      "author": "Lucas & Emma",
+      "role": "Jeunes mariés"
+    }
+  },
+  "cta": {
+    "title": "Prêt à cultiver votre relation ?",
+    "subtitle": "Rejoignez les premiers utilisateurs et bénéficiez d'un accès prioritaire.",
+    "button": "Je m'inscris gratuitement",
+    "privacy": "Nous respectons votre vie privée. Aucun spam, promis."
+  },
+  "footer": {
+    "tagline": "Cultivez votre relation, ensemble.",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "contact": "Contact",
+    "copyright": "© 2024 Relate & Grow. Tous droits réservés."
+  },
+  "form": {
+    "email": "Adresse email",
+    "submit": "Rejoindre",
+    "submitting": "Inscription...",
+    "success": "Merci ! Vous êtes inscrit(e) à notre liste d'attente.",
+    "error": "Une erreur est survenue. Veuillez réessayer."
+  }
+}
