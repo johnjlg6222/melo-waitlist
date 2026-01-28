@@ -5,10 +5,6 @@
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
-  [plugins.inputs]
-    # Disable Netlify Forms detection to fix plugin v5 migration error
-    disable_forms = true
-
 [build.environment]
   NODE_VERSION = "20"
 

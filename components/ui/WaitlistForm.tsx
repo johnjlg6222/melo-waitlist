@@ -26,7 +26,7 @@ export default function WaitlistForm({ className, variant = 'inline' }: Waitlist
       formData.append('form-name', 'waitlist');
       formData.append('email', email);
 
-      const response = await fetch('/', {
+      const response = await fetch('/__forms.html', {
         method: 'POST',
         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
         body: new URLSearchParams(formData as unknown as Record<string, string>).toString(),
@@ -70,8 +70,6 @@ export default function WaitlistForm({ className, variant = 'inline' }: Waitlist
             onSubmit={handleSubmit}
             name="waitlist"
             method="POST"
-            data-netlify="true"
-            data-netlify-honeypot="bot-field"
             className={cn(
               'flex gap-3',
               isInline ? 'flex-row' : 'flex-col'

@@ -29,11 +29,6 @@ export default async function LocaleLayout({ children, params }: Props) {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
       <body className="font-quicksand antialiased">
-        {/* Hidden form for Netlify Forms detection */}
-        <form name="waitlist" data-netlify="true" netlify-honeypot="bot-field" hidden>
-          <input type="email" name="email" />
-          <input type="hidden" name="bot-field" />
-        </form>
         <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>
